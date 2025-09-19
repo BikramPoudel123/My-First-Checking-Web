@@ -1,2 +1,2 @@
-# My-First-Checking-Web
-I am just trying it
+This is my first website which i have been publishing in github.
+
